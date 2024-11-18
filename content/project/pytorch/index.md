@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Tribute Page
+date: 2024-10-10
+external_link: https://promak70.github.io/TributePage/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A Tribute Page project is a simple web page dedicated to honoring a person, event, or idea, showcasing key details and achievements with clean design and responsive layout.
 
 <!--more-->

@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Survey Form
+date: 2024-09-16
+external_link: https://promak70.github.io/SurveyForm/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+ 
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A Survey Form Project is a responsive web form designed to collect user feedback or information efficiently, showcasing form validation and clean UI/UX.
 
 <!--more-->

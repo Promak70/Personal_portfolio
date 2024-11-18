@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Building a Piano
+date: 2024-09-15
+external_link: https://promak70.github.io/Buildind_a_Piano/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+ 
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+A project focused on creating a functional and visually appealing piano using web technologies like HTML, CSS, and JavaScript for interactive sound and key responsiveness.
 
 <!--more-->
