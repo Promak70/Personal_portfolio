@@ -116,25 +116,17 @@ Jahangirnagar University&lt;/p&gt;
     </item>
     
     <item>
-      <title>Building a Penguin</title>
-      <link>http://localhost:1313/project/penguin/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/penguin/</guid>
-      <description>&lt;p&gt;Building a Penguin&amp;quot; is an animation project that creatively assembles a penguin using CSS and keyframe animations, showcasing interactive and dynamic design skills.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tic-Tac-Toe Game</title>
-      <link>http://localhost:1313/project/tic_tac_toe/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tic_tac_toe/</guid>
-      <description>&lt;p&gt;Tic Tac Toe Game is a classic two-player strategy game built with interactive features, allowing users to play against another player or the computer with seamless transitions and responsive design.&lt;/p&gt;</description>
+      <title>Building a Piano</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;A project focused on creating a functional and visually appealing piano using web technologies like HTML, CSS, and JavaScript for interactive sound and key responsiveness.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute Page</title>
       <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;A Tribute Page project is a simple web page dedicated to honoring a person, event, or idea, showcasing key details and achievements with clean design and responsive layout.&lt;/p&gt;</description>
     </item>
@@ -142,7 +134,7 @@ Jahangirnagar University&lt;/p&gt;
     <item>
       <title>Ferris_Wheel</title>
       <link>http://localhost:1313/project/ferris_wheel/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/ferris_wheel/</guid>
       <description>&lt;p&gt;The Ferris-Wheel Project is an interactive and visually engaging web application showcasing a dynamic, rotating Ferris wheel built using HTML, CSS.&lt;/p&gt;</description>
     </item>
@@ -150,17 +142,25 @@ Jahangirnagar University&lt;/p&gt;
     <item>
       <title>Survey Form</title>
       <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;A Survey Form Project is a responsive web form designed to collect user feedback or information efficiently, showcasing form validation and clean UI/UX.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Building a Piano</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;A project focused on creating a functional and visually appealing piano using web technologies like HTML, CSS, and JavaScript for interactive sound and key responsiveness.&lt;/p&gt;</description>
+      <title>Building a Penguin</title>
+      <link>http://localhost:1313/project/penguin/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/penguin/</guid>
+      <description>&lt;p&gt;Building a Penguin&amp;quot; is an animation project that creatively assembles a penguin using CSS and keyframe animations, showcasing interactive and dynamic design skills.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe Game</title>
+      <link>http://localhost:1313/project/tic_tac_toe/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tic_tac_toe/</guid>
+      <description>&lt;p&gt;Tic Tac Toe Game is a classic two-player strategy game built with interactive features, allowing users to play against another player or the computer with seamless transitions and responsive design.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -417,7 +417,7 @@ Jahangirnagar University&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-158237946&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-735648129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -435,7 +435,7 @@ Jahangirnagar University&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-158237946&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-735648129&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1064,7 +1064,7 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Technical Documentation Page</title>
       <link>http://localhost:1313/project/technical_documentation/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/technical_documentation/</guid>
       <description>&lt;p&gt;A Technical Documentation Page Project is a structured web page designed to provide clear, concise, and well-organized information about technical topics, featuring navigation links, code examples, and responsive design.&lt;/p&gt;</description>
     </item>

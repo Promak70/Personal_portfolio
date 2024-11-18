@@ -1,6 +1,6 @@
 ---
 title: Tic-Tac-Toe Game
-date: 2024-10-20
+date: 2024-06-20
 external_link: https://promak70.github.io/Tic_Tac_Toe/
 tags:
  

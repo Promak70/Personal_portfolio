@@ -1,6 +1,6 @@
 ---
 title: Building a Piano
-date: 2024-09-15
+date: 2024-10-15
 external_link: https://promak70.github.io/Buildind_a_Piano/
 tags:
  

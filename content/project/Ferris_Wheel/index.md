@@ -1,6 +1,6 @@
 ---
 title: Ferris_Wheel
-date: 2024-10-03
+date: 2024-09-03
 external_link: https://promak70.github.io/Ferris-Wheel/
 tags:
  

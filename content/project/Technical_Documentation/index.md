@@ -1,6 +1,6 @@
 ---
 title: Technical Documentation Page
-date: 2023-09-06
+date: 2023-08-06
 external_link: https://promak70.github.io/TechnicalDocumentationPage/
 tags:
  

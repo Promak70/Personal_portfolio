@@ -1,6 +1,6 @@
 ---
 title: Building a Penguin
-date: 2024-10-26
+date: 2024-06-26
 external_link: https://promak70.github.io/Building_a_penguin/
 tags:
   
